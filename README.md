@@ -1,17 +1,17 @@
-# Welcome to GitHub
+# 유레카프로젝트 2조
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+**팀원 소개**
+20243040 김지성
+20243047 김형민
+뱜바사이한
+테뮬렌
+에르햄바야르
+돌궁
 
-가나다라마바사
+## 팀의 슬로건
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
-
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+'code our future'
+프로그램을 내 마음대로 코딩하듯이 지금 주어진 활동들도 자유롭게 해보자!
 
 ```markdown
 Syntax highlighted code block
